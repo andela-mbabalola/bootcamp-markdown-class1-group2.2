@@ -11,7 +11,7 @@
 [Readmore](https://www.microsoft.com/en-us/cloud-platform/internet-of-things) Hear leading researchers discuss the future of IoT, artificial intelligence and more)
 
  
-### COMPANIES INVESTING IN  IOT
+### COMPANIES INVESTING IN IOT
 
 
 - [Readmore](https://aws.amazon.com/) Amazon Web services.
