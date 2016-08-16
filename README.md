@@ -13,7 +13,6 @@ Computer science in two words is 'Problem solving'.
 expressive — allowing for an infinite number of combinations of words, images, and ideas —
 but when done well, it produces a functional and useful product that can entertain and
 inform the masses. [Read more](https://studio.code.org/unplugged/unplug1.pdf)
-
 - [According to Interactive Python.](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
 > Computer science is often difficult to define. This is probably due to the unfortunate use of the word “computer” in the name. As you are perhaps aware, computer science is not simply the study of computers. Although computers play an important supporting role as a tool in the discipline, they are just that–tools.[Read More](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
 
