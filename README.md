@@ -1,5 +1,3 @@
-# bootcamp-markdown-class1-group2.2
-
 
 # Introduction to Git
 
@@ -19,7 +17,7 @@ To download Git visit [gitscm][df1] and to get the documentations and tutorial v
 > Even if you don't have commit rights for a project, you can still have your own repository online, and publish "push requests" for your patches.
 > Everybody who likes your patches can pull them into their project, including the official maintainers.
 
-### Examples of some command
+### Examples of some commands
 
 
 ```sh
