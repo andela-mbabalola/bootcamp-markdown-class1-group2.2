@@ -19,5 +19,6 @@
 - [Readmore](https://andela.com/) Andela.
 - [REadmore](https://www.att.com) AT & T.
 - [Readmore](https://andela.com/) Andela.
-- [readmore](www.ptc.com/axeda) Axeda
+- [readmore](www.ptc.com/axeda) Axeda.
+
 
