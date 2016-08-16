@@ -27,7 +27,5 @@ Javascript snippets, once appended onto web pages execute on client servers imme
 Different layout engines may render Javascript differently resulting in inconsistency in terms of functionality and interface. While the latest versions of javascript and rendering have been geared towards a universal standard, certain variations still exist.
 
 
-
-
 [df1]: <https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics/>
 [df2]: <http://www.greasespot.net>
