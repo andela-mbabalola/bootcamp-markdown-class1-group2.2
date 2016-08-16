@@ -1,5 +1,3 @@
-# bootcamp-markdown-class1-group2.2
-
 # Introduction IOT (Internet of things)
  What really is IOT ?  
  
