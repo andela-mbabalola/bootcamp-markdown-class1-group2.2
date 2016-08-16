@@ -46,6 +46,7 @@ _This is a somewhat morderate sum of what computer science is, It should be wort
 
 By [IniOluwa Fageyinbo](https://github.com/inioluwa)
 
+
 # INTRODUCTION TO JAVASCRIPT
  ### 1. Purpose of Javascript
  * JavaScript is a high-level, dynamic programming language used in building webpages alongside HTML and CSS, it is one of the three core technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern Web browsers without plug-ins. JavaScript is prototype-based with functions, making it a multi-paradigm language, supporting object-oriented programming, and functional programming styles, It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage, or graphics facilities, relying for these upon the host environment in which it is embedded.
@@ -76,3 +77,57 @@ Different layout engines may render Javascript differently resulting in inconsis
 
 [df1]: <https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics/>
 [df2]: <http://www.greasespot.net>
+
+# Introduction to Git
+
+Git is  a version control system that is used for software development and other version control tasks.
+As a distributed revision control system it is aimed at speed,data integrity, and support for distributed,
+non-linear workflows. Git was created by Linus Torvalds in 2005 for development of the Linux kernel, 
+with other kernel developers contributing to its initial development.
+It's helps in providing clarity as to:
+  - Who made a change in a particular file 
+  - Why he made the change
+  - When he made the change 
+
+To download Git visit [gitscm][df1] and to get the documentations and tutorial visit [git scm][df1]
+
+> With Git, you can do practically anything offline, because everybody has their own repository
+> Making branches and merging between branches is really easy.
+> Even if you don't have commit rights for a project, you can still have your own repository online, and publish "push requests" for your patches.
+> Everybody who likes your patches can pull them into their project, including the official maintainers.
+
+### Examples of some commands
+
+
+```sh
+$ git init
+$ git branch
+$ git commit
+```
+> NB: This is just a test content to test my new skill-how to use git in Andela's bootcamp August 2016.. #TIA 
+ 
+   [df1]: <http://git-scm.com/>
+  
+
+# Introduction IOT (Internet of things)
+ What really is IOT ?  
+ 
+ 
+ -  The IoT links smart objects to the Internet. It can enable an exchange of data never available before, and bring users information in a more secure way 
+ -   it is also the network of physical objects that contain embedded technology to communicate and sense or interact with their internal states or the external environment.
+ 
+ - created by <Shelter Orok>
+ 
+
+[Readmore](https://www.microsoft.com/en-us/cloud-platform/internet-of-things) Hear leading researchers discuss the future of IoT, artificial intelligence and more)
+
+ 
+### COMPANIES INVESTING IN  IOT
+
+
+- [Readmore](https://aws.amazon.com/) Amazon Web services.
+- [REadmore](https://www.att.com) AT & T.
+- [Readmore](https://andela.com/) Andela.
+- [REadmore](https://www.att.com) AT & T.
+- [Readmore](https://andela.com/) Andela.
+- [readmore](www.ptc.com/axeda) Axeda.
